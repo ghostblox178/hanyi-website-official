@@ -1,21 +1,20 @@
-#p1{
+
+#p1 {
     background-color: rgb(167, 212, 226);
 }
-#p5{
+
+
+#p5 {
     text-align: center;
     padding: 10px;
-}
-#p5{
     background-image: url('image.jpg');
     background-repeat: no-repeat;
     background-size: cover;
+    background-position: center; /* ensures image is centered */
 }
 
-#p9{
-    border-image-repeat: no-repeat;
+
+#p9 {
     border-radius: 15px;
-    border: 3px double;
-    border-color: rgb(163, 171, 171);
-
+    border: 3px double rgb(163, 171, 171); /* combine border width, style, color */
 }
-
