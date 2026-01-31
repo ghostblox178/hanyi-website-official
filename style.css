@@ -10,11 +10,12 @@
     background-image: url('image.jpg');
     background-repeat: no-repeat;
     background-size: cover;
-    background-position: center; /* ensures image is centered */
+    background-position: center; 
 }
 
 
 #p9 {
     border-radius: 15px;
-    border: 3px double rgb(163, 171, 171); /* combine border width, style, color */
+    border: 3px double rgb(163, 171, 171); 
 }
+
