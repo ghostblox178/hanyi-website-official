@@ -1,0 +1,19 @@
+#p1{
+    background-color: rgb(167, 212, 226);
+}
+#p5{
+    text-align: center;
+    padding: 10px;
+}
+#p5{
+    background-image: url('/Image/image.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#p9{
+    border-image-repeat: no-repeat;
+    border-radius: 15px;
+    border: 3px double;
+    border-color: rgb(163, 171, 171);
+}
