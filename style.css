@@ -6,7 +6,7 @@
     padding: 10px;
 }
 #p5{
-    background-image: url('image.png');
+    background-image: url('image.jpg');
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -18,3 +18,4 @@
     border-color: rgb(163, 171, 171);
 
 }
+
