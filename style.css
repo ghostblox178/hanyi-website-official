@@ -1,21 +1,33 @@
-
+/* Header */
 #p1 {
     background-color: rgb(167, 212, 226);
+    padding: 20px;
+    text-align: center;
 }
 
-
+/* Main section with background image */
 #p5 {
     text-align: center;
-    padding: 10px;
+    padding: 20px;
     background-image: url('image.jpg');
     background-repeat: no-repeat;
     background-size: cover;
-    background-position: center; 
+    background-position: center;
 }
 
-
+/* Image styling */
 #p9 {
     border-radius: 15px;
-    border: 3px double rgb(163, 171, 171); 
+    border: 3px double rgb(163, 171, 171);
+    max-width: 90%;
+    height: auto;
+    display: block;
+    margin: 20px auto;
 }
 
+/* Footer */
+footer {
+    text-align: center;
+    padding: 15px;
+    background-color: rgb(167, 212, 226);
+}
